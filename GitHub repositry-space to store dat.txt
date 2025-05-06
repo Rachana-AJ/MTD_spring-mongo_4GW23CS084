@@ -1,6 +1,7 @@
 GitHub repositry-space to store data(projects) in an online platform .
 git commands
 -> git clone""
+-> git add
 
 
 mongo commands
