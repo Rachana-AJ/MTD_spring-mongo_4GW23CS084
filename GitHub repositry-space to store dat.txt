@@ -1,0 +1,15 @@
+GitHub repositry-space to store data(projects) in an online platform .
+git commands
+-> git clone""
+
+
+mongo commands
+-> show dbs
+-> use mongo_basics
+->[ db.collectionname.function]
+-> db.name.insertone()
+-> db.name.insertMany()
+-> db.name.updateOne()[{($set:{}}]
+-> db.name.updateOne()
+-> db.name.find()
+-> db.show
